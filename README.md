@@ -24,7 +24,7 @@ npm run server
 ```
 
 📂 Cấu trúc thư mục
-Nhóm 10-ST23D-2024/
+Nhóm 10/
 ├── public/ # Chứa các tài nguyên tĩnh
 ├── src/ # Chứa mã nguồn của ứng dụng
 ├── .env # Các biến môi trường
