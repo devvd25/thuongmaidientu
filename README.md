@@ -16,7 +16,7 @@ Dự án này cung cấp một mẫu ứng dụng thương mại điện tử v�
 Clone repository:
 
 ```bash
-git clone https://github.com/Vietanh30/Ecommerce-Electronics.git
+git clone https://github.com/devvd25/thuongmaidientu.git
 cd Ecommerce-Electronics
 npm install
 npm run dev
