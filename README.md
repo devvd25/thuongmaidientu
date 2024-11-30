@@ -17,7 +17,7 @@ Clone repository:
 
 ```bash
 git clone https://github.com/devvd25/thuongmaidientu.git
-cd Ecommerce-Electronics
+cd thuongmaidientu
 npm install
 npm run dev
 npm run server
