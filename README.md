@@ -1,5 +1,3 @@
-# Ecommerce Electronics
-
 Một ứng dụng thương mại điện tử đơn giản được xây dựng bằng React và Vite, mang đến trải nghiệm mua sắm trực tuyến cho các sản phẩm điện tử.
 
 ## 🚀 Giới thiệu
