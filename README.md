@@ -27,11 +27,14 @@ npm run server
 
 📂 Cấu trúc thư mục
 Nhóm 10/
-
 ├── public/ # Chứa các tài nguyên tĩnh
+
 ├── src/ # Chứa mã nguồn của ứng dụng
+
 ├── .env # Các biến môi trường
+
 └── db.json # Dữ liệu giả lập cho ứng dụng
+
 🌟 Tính năng chính
 Duyệt sản phẩm: Người dùng có thể xem danh sách các sản phẩm điện tử.
 Thêm vào giỏ hàng: Thêm sản phẩm yêu thích vào giỏ hàng.
